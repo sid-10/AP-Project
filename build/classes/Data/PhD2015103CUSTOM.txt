@@ -1,0 +1,33 @@
+Email : email@gmail.com
+Name : name
+Enrollment Number : PhD2015103
+Personal Address : address
+Category : General
+Gender : Male
+Disabled : Yes
+Date of Birth : 1992-01-15
+PhD Stream : Computer Science
+PhD Area Preference 1 : Computer Architecture and Systems Design - CSE
+PhD Area Preference 2 : Computer Graphics - CSE
+Father's Name : fname
+Nationality : null
+Class X Board : CBSE
+Class X Marks : 95
+Class XII Board : CBSE
+Class XII Marks : 100
+Graduation College : grad_coll
+Graduation University : grad_univ
+Graduation Department : grad_dept
+Graduation Degree : grad_degree
+Graduation State : grad_state
+Graduation Marks : 100
+Post Graduation Degree : null
+Post Graduation Department : null
+Post Graduation College : null
+Post Graduation State : null
+Post Graduation Marks : null
+Gate Score : null
+CV Link : C:\Users\Siddharth\Downloads\eclipse\readme\readme_eclipse.html
+Statement of Purpose Link : C:\Users\Siddharth\Downloads\eclipse\readme\readme_eclipse.html
+Date of Form :2015-11-29
+

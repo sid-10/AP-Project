@@ -1,0 +1,191 @@
+Welcome to Samsung Live Chat. How may I help you?
+Namrata
+Good Afternoon! This is Namrata. I will be glad to assist you.
+14:38:03
+Hi
+14:38:06
+Namrata
+Good Afternoon Sir.
+14:38:36
+I purchased Samsung E7 around 4 months ago from an authorised retailer in Delhi..
+14:38:37
+Namrata
+I can understand your concern, surely I will help you regarding your concern.
+14:38:48
+and I was using the "Google Keyboard" properly(set as default) in the Kitkat operating system instead of the samsung keyboard
+14:39:31
+however after a recent update to Android Lolipop even when i change the default keyboard to Google Keyboard, after some time it switches it back to Samsung Keyboard...
+14:40:35
+Namrata
+We regret for the inconvenience caused to you.
+14:41:49
+Namrata
+May I have your contact details and State name so that we can check the details?
+14:41:52
+Yesterday I contacted one of your technicians via this chat and he asked me to delete BadgeProvider Data and reset app preferences
+14:41:58
+but that too only temporarily fixed the issue...
+14:42:14
+this is really troubling as i am accustomed to the google keyboard.
+14:42:35
+Could you kindly help?
+14:42:44
+are you there?
+14:43:38
+Namrata
+Regarding the same I would like to provide you some technical steps, kindly do follow those steps. .
+14:43:42
+Namrata
+Yes Mam, I am online.
+14:43:47
+ok
+14:43:55
+Namrata
+I would like to inform you that kindly go to the Setting> Application > Application manager> All > tab 3 dots mentioned above >Reset app preferences> reset apps.
+14:44:56
+i"ve already performed that yesterday...
+14:45:38
+Namrata
+I would like to inform you that kindly go to the Setting> Application > Application manager> All > Samsung Key Board > Clear data.
+14:46:35
+Namrata
+This will remove all your dictionary words Mam, or Shortcuts.
+14:46:55
+alright
+14:47:04
+done
+14:47:26
+next?
+14:47:49
+Namrata
+Kindly restart the device now.
+14:48:22
+restarted.
+14:49:17
+now?
+14:50:07
+Namrata
+Kindly check whether the Key board is working or not.
+14:51:01
+i changed the default keyboard to google; worked ok for some time; but now again Samsung keyboard pops up...
+14:52:13
+Namrata
+Alright Mam.
+14:53:26
+Namrata
+May I confirm that have you tried the device in Safe Mode?
+14:53:38
+no
+14:53:45
+Namrata
+In safe mode, 3rd party application will be bypassed and handset will work with default applications only.
+14:53:59
+but in that case The Samsung keyboard will be selected...what"s the point of that?
+14:55:03
+Namrata
+Mam, for the same kindly go to Setting > System > Language and Inputs > Google Key board.
+14:57:53
+ok
+14:58:47
+Namrata
+Kindly do it now.
+15:00:00
+done
+15:00:34
+without safe mode?
+15:00:42
+Namrata
+Yes Mam.
+15:00:54
+Namrata
+Kindly check whether the Google Keyboard is working or not.
+15:01:08
+working mow ...but this usually works for 2 mins max
+15:02:37
+*now
+15:02:42
+Namrata
+Kindly check it out for few minutes as I am online.
+15:03:06
+meanwhile...what causes this problem?
+15:05:11
+Namrata
+Mam. might be the issue is because of the temporary files which are running at the background of the device.
+15:07:19
+...still not working.
+15:09:17
+Namrata
+Then kindly check the device in Safe Mode Sir.
+15:10:15
+how to do that?
+15:10:42
+Namrata
+In safe mode, 3rd party application will be bypassed and handset will work with default applications only.
+15:11:18
+how to start device in safe mode?
+15:11:44
+Namrata
+You need to restart your handset by pressing power key.
+15:11:55
+Namrata
+Then, when Samsung logo appear on the screen long press volume down key only and keep pressing it.
+15:11:58
+Namrata
+You will see a safe mode label at bottom left side, when your handset will be entered into safe mode.
+15:13:38
+ok i"m in safe mode
+15:13:38
+yeah..
+15:13:44
+Namrata
+ Kindly observe the performance of the handset, regarding the issue you informed us Mam.
+15:13:59
+i cannot check the google keyboard(3rd party..i suppose?)
+15:14:28
+Namrata
+Yes Mam.
+15:14:55
+so what do i check?
+15:15:06
+Namrata
+Kindly go to Setting > Language and Inputs > Google Keyboard.
+15:15:17
+in language and inputs, there is no potion of google keyboard..
+15:16:00
+*option
+15:16:06
+Namrata
+Mam, then you need to once take the data backup and reset the device.
+15:17:44
+ok
+15:17:55
+Namrata
+As Samsung does not provide any confirmation for the 3rd party apps.
+15:18:01
+how do i go about it?
+15:18:02
+Namrata
+I would like to inform you that To exit from the safe mode, you need to re-start the handset .
+15:18:13
+how to complete " data backup and reset the device" ?
+15:19:30
+Namrata
+http://www.samsung.com/in/support/smartswitch/
+15:20:18
+Namrata
+I would like to inform you that kindly Copy + Paste the above link in other Browser.
+15:20:26
+Namrata
+Kindly restart the pc after installing Smart Switch sir and then connect the device with pc via Samsung USB cable and then take the data backup.
+15:20:31
+ok and what about resetting the device?
+15:20:55
+Namrata
+For reset : setting> account> back up and reset > factory reset.
+15:21:07
+ok
+15:21:52
+Namrata
+If then also issue not resolved then kindly once coordinate with us on the same channel or Live Chat Mam.
+15:22:22
+alright

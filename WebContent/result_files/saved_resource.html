@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)http://fiddle.jshell.net/h5p3gLf1/show/light/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title> - jsFiddle demo</title>
+  
+  
+  <script type="text/javascript" src="dummy.js"></script>
+  
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="result-light.css">
+  
+  <style type="text/css">
+    
+  </style>
+  
+
+
+
+<script type="text/javascript">//<![CDATA[
+
+(function() {
+    var radIn = null, sel = null, current = false
+    function init() {
+        var radOut = document.getElementById("radOut");
+        radIn = document.getElementById("radIn");
+        sel = document.getElementById("dropDown");
+        
+        radIn.addEventListener('change', onChange);
+        radOut.addEventListener('change', onChange);
+        onChange();
+    }
+	function onChange() {
+    	var rad = radIn.checked;
+    	if(rad == current)
+    		return;
+    	current = rad;
+    	var array = rad ? 
+            ["in1","in2","in3","in4","in5"] : 
+    	    ["out1","out2","out3","out4","out5"];
+    	sel.innerHTML = "";
+		array.forEach(function(k) {
+			//alert(k + " asdsd");
+			var opt = document.createElement("option");
+			opt.innerHTML = k;
+			sel.appendChild(opt);
+		})
+	}
+	window.addEventListener('load', init);
+})();
+//]]> 
+
+</script>
+
+<style type="text/css"></style></head>
+<body>
+      	<input type="radio" value="in" name="campus" id="radIn" checked="checked">
+    	<label for="radIn">In Campus</label>
+    	<br>
+    	<input type="radio" value="out" name="campus" id="radOut">
+    	<label for="radOut">Out Campus</label>
+    	<br>
+    	<select id="dropDown"><option>in1</option><option>in2</option><option>in3</option><option>in4</option><option>in5</option></select></body></html>
