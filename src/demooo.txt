@@ -1,2 +1,0 @@
-email@gmail.com#name#PhD2015103#General#Male#No#1992-01-15#Computer Science#grad_degree##CBSE#CBSE#grad_dept##grad_univ##grad_state##95#100#100#90#50#2015-11-29 12:13:00
-email1@gmail.com#name1#PhD2015105#General#Male#No#1992-02-15#Computer Science#grad_degree#post_grad_degree#CBSE#CBSE#grad_dept#post_grad_dept#grad_univ##grad_state#post_grad_state#95#100#100#96#70#2013-11-29 12:13:00
